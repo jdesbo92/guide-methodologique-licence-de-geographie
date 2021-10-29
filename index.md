@@ -1,4 +1,4 @@
-## INTRODUCTION 
+# INTRODUCTION 
 
 <span style="text-align: justify; display:block;">
 Ce guide méthodologique est destiné aux étudiants de la licence géographie et aménagement et de la double licence Histoire et Géographie de l’université Sorbonne Paris Nord. 
@@ -10,21 +10,22 @@ Chaque fiche est constituée d’exemples qui permettront aux étudiants de s’
 Ce guide doit vous accompagner dans l’acquisition du socle de connaissances et des savoir-faire essentiels en géographie.<space><space>
 Sa consultation est conseillée de la 1ère à la 3e année de licence, mais ne doit pas remplacer votre recherche personnelle et votre consultation de manuels et de dictionnaires universitaires. </span>
 
-## QUELQUES OUVRAGES POUR VOUS AIDER DANS VOS ETUDES SUPERIEURES EN GEOGRAPHIE ET A L'UNIVERSITE
+# QUELQUES OUVRAGES POUR VOUS AIDER DANS VOS ETUDES SUPERIEURES EN GEOGRAPHIE ET A L'UNIVERSITE
+## Généralités
 - BORD Erwin, 2017, Comment décrocher votre diplôme : mémorisation, motivation, concentration, gestion du temps, organisation, Paris, Eyrolles, 143 p.
 -	BUSKULIC Damir, 2019, Je réussis mon entrée à la fac, Louvain-la-Neuve, De Boeck supérieur, 203 p.
 -	CHABAULT Vincent, 2018, Construire son projet personnel et professionnel, Caen, Éditions EMS, Management & société, 114 p.
 -	HOUART Mireille, ROMAINVILLE Marc, 2017, Réussir sa première année d'études supérieures, Louvain-la-Neuve, De Boeck supérieur, 287 p.
+  
+## Organiser et apprendre à représenter vos notes d’un point de vue graphique
+- AKOUN Audrey, BOUKOBZA Philippe, PAILLEAU Isabelle, 2019, Apprendre avec le sketchnoting : comment ré-enchanter les manières d’apprendre grâce à la pensée visuelle, Paris, Eyrolles, 124 p.
+- GALINDO Bernard, Roche Rémi, 2017, Mind mapping : pour être efficace au travail et dans les études, St-Herblain, Editions ENI, En ligne / 198 p.
+- HAUSSMANN Martin, ROLLAND Sabine 2019, UZMO / Penser avec son stylo : présenter ses idées, convaincre et faciliter avec la pensée visuelle !, Paris, Eyrolles, 302 p.
 
-Organiser et apprendre à représenter vos notes d’un point de vue graphique
-	AKOUN Audrey, BOUKOBZA Philippe, PAILLEAU Isabelle, 2019, Apprendre avec le sketchnoting : comment ré-enchanter les manières d’apprendre grâce à la pensée visuelle, Paris, Eyrolles, 124 p.
-	GALINDO Bernard, Roche Rémi, 2017, Mind mapping : pour être efficace au travail et dans les études, St-Herblain, Editions ENI, En ligne / 198 p.
-	HAUSSMANN Martin, ROLLAND Sabine 2019, UZMO / Penser avec son stylo : présenter ses idées, convaincre et faciliter avec la pensée visuelle !, Paris, Eyrolles, 302 p.
-
-Travailler sur votre expression écrite
-	ABBADIE Christian, CHOVELON Bernadette, MORSEL Marie-Hélène, 2015, L'expression française écrite et orale, Grenoble : Presses universitaires de Grenoble, 243 p
-	BIGGI Régine, 2017, Maîtriser le français et réussir dans le supérieur, Paris, Ellipses, 311 p.
-	BISMUTH Hervé, 2013, La maîtrise de l'écrit dans les études supérieures : perfectionnement, entraînements, Dijon, Éditions universitaires de Dijon, 278 p.
+##Travailler sur votre expression écrite
+-ABBADIE Christian, CHOVELON Bernadette, MORSEL Marie-Hélène, 2015, L'expression française écrite et orale, Grenoble : Presses universitaires de Grenoble, 243 p
+-BIGGI Régine, 2017, Maîtriser le français et réussir dans le supérieur, Paris, Ellipses, 311 p.
+-BISMUTH Hervé, 2013, La maîtrise de l'écrit dans les études supérieures : perfectionnement, entraînements, Dijon, Éditions universitaires de Dijon, 278 p.
 	DAMAR Marie-Ève 2014, Communication écrite : théorie, méthodologie, exercices et corrigés, Louvain-la-Neuve, De Boeck Duculot, 143 p.
 	GIRARD-SISAKOUN Sylvie, 2016, Réussir ses écrits dans le Supérieur : examens et concours : classes prépas, université, grandes écoles, Paris, Ellipses, 283 p.
 	GRÉMY Arnold, 2013, Perfectionner son français : écrire sans fautes, enrichir son vocabulaire, rédiger avec élégance, Paris, Ellipses, 374 p.
