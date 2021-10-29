@@ -22,21 +22,22 @@ Sa consultation est conseillée de la 1ère à la 3e année de licence, mais ne 
 - GALINDO Bernard, Roche Rémi, 2017, Mind mapping : pour être efficace au travail et dans les études, St-Herblain, Editions ENI, En ligne / 198 p.
 - HAUSSMANN Martin, ROLLAND Sabine 2019, UZMO / Penser avec son stylo : présenter ses idées, convaincre et faciliter avec la pensée visuelle !, Paris, Eyrolles, 302 p.
 
-##Travailler sur votre expression écrite
--ABBADIE Christian, CHOVELON Bernadette, MORSEL Marie-Hélène, 2015, L'expression française écrite et orale, Grenoble : Presses universitaires de Grenoble, 243 p
--BIGGI Régine, 2017, Maîtriser le français et réussir dans le supérieur, Paris, Ellipses, 311 p.
--BISMUTH Hervé, 2013, La maîtrise de l'écrit dans les études supérieures : perfectionnement, entraînements, Dijon, Éditions universitaires de Dijon, 278 p.
-	DAMAR Marie-Ève 2014, Communication écrite : théorie, méthodologie, exercices et corrigés, Louvain-la-Neuve, De Boeck Duculot, 143 p.
-	GIRARD-SISAKOUN Sylvie, 2016, Réussir ses écrits dans le Supérieur : examens et concours : classes prépas, université, grandes écoles, Paris, Ellipses, 283 p.
-	GRÉMY Arnold, 2013, Perfectionner son français : écrire sans fautes, enrichir son vocabulaire, rédiger avec élégance, Paris, Ellipses, 374 p.
-	SPICHER Anne, 2014, Savoir rédiger : les techniques pour écrire avec clarté et efficacité, Paris, Ellipses, 262 p.
+## Travailler sur votre expression écrite
+- ABBADIE Christian, CHOVELON Bernadette, MORSEL Marie-Hélène, 2015, L'expression française écrite et orale, Grenoble : Presses universitaires de Grenoble, 243 p
+- BIGGI Régine, 2017, Maîtriser le français et réussir dans le supérieur, Paris, Ellipses, 311 p.
+- BISMUTH Hervé, 2013, La maîtrise de l'écrit dans les études supérieures : perfectionnement, entraînements, Dijon, Éditions universitaires de Dijon, 278 p.
+-DAMAR Marie-Ève 2014, Communication écrite : théorie, méthodologie, exercices et corrigés, Louvain-la-Neuve, De Boeck Duculot, 143 p.
+- GIRARD-SISAKOUN Sylvie, 2016, Réussir ses écrits dans le Supérieur : examens et concours : classes prépas, université, grandes écoles, Paris, Ellipses, 283 p.
+- GRÉMY Arnold, 2013, Perfectionner son français : écrire sans fautes, enrichir son vocabulaire, rédiger avec élégance, Paris, Ellipses, 374 p.
+-SPICHER Anne, 2014, Savoir rédiger : les techniques pour écrire avec clarté et efficacité, Paris, Ellipses, 262 p.
 	BERLION Daniel, BLED Edouard, BLED Odette, Bled. Orthographe, grammaire, conjugaison, vocabulaire, Paris, Hachette, 2012, 320 p.
-	ENGLEBERT Annick, 2017, Le mot juste pour organiser ses idées, Louvain-la-Neuve, De Boeck Supérieur, 128 p.
-	KREBS Valérie, SOS Conjugaison ! Apprendre et réviser la conjugaison française en s'amusant, Niveau 1, Paris, Ellipses, 2011, 128 p.
-	LESOT Adeline, Bescherelle, l’essentiel. Pour mieux s'exprimer à l'écrit et à l'oral, Paris, Hatier, 2010, 430 p.
-	Projet Voltaire, http://www.projet-voltaire.fr/ : service en ligne d’entraînement à l’orthographe. Majoritairement payant. Accessible gratuitement via des abonnements effectués par des composantes pédagogiques.
-	VASSEVIERE Jacques, 2013, Bien écrire pour réussir ses études : orthographe, lexique, syntaxe : 150 règles et rappels, 150 exercices corrigés, Paris, Armand Colin, 221 p.1
-Prise de notes, synthèse et dissertation
+- ENGLEBERT Annick, 2017, Le mot juste pour organiser ses idées, Louvain-la-Neuve, De Boeck Supérieur, 128 p.
+- KREBS Valérie, SOS Conjugaison ! Apprendre et réviser la conjugaison française en s'amusant, Niveau 1, Paris, Ellipses, 2011, 128 p.
+- LESOT Adeline, Bescherelle, l’essentiel. Pour mieux s'exprimer à l'écrit et à l'oral, Paris, Hatier, 2010, 430 p.
+- Projet Voltaire, http://www.projet-voltaire.fr/ : service en ligne d’entraînement à l’orthographe. Majoritairement payant. Accessible gratuitement via des abonnements effectués par des composantes pédagogiques.
+- VASSEVIERE Jacques, 2013, Bien écrire pour réussir ses études : orthographe, lexique, syntaxe : 150 règles et rappels, 150 exercices corrigés, Paris, Armand Colin, 221 p.1
+  
+## Prise de notes, synthèse et dissertation
 
 	BATTAGLIA Christian, 2015, La dissertation : rédiger un texte argumentatif, Paris, Ellipses, 182 p.
 	COBAST Éric, 2019, S.O.S. dissertation : La méthode simple et efficace : Les 7 étapes pour réussir, Paris, l’Etudiant Editions, 202 p.
