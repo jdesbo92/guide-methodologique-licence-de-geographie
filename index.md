@@ -38,16 +38,14 @@ Sa consultation est conseillée de la 1ère à la 3e année de licence, mais ne 
 - VASSEVIERE Jacques, 2013, Bien écrire pour réussir ses études : orthographe, lexique, syntaxe : 150 règles et rappels, 150 exercices corrigés, Paris, Armand Colin, 221 p.1
   
 ## Prise de notes, synthèse et dissertation
+- BATTAGLIA Christian, 2015, La dissertation : rédiger un texte argumentatif, Paris, Ellipses, 182 p.
+- COBAST Éric, 2019, S.O.S. dissertation : La méthode simple et efficace : Les 7 étapes pour réussir, Paris, l’Etudiant Editions, 202 p.
+- TROUVE Alain, 2016, Réussir le résumé et la synthèse de textes aux concours, Paris, PUF, 193 p.
+- SIMONET Jean, SIMONET Renée, 2016, Prendre des notes, Paris, Eyrolles, 207 p.
 
-	BATTAGLIA Christian, 2015, La dissertation : rédiger un texte argumentatif, Paris, Ellipses, 182 p.
-	COBAST Éric, 2019, S.O.S. dissertation : La méthode simple et efficace : Les 7 étapes pour réussir, Paris, l’Etudiant Editions, 202 p.
-	TROUVE Alain, 2016, Réussir le résumé et la synthèse de textes aux concours, Paris, PUF, 193 p.
-	SIMONET Jean, SIMONET Renée, 2016, Prendre des notes, Paris, Eyrolles, 207 p.
-	
-
-S’entrainer et se familiariser à la rédaction sur les outils bureautiques 
-	Ressources en ligne de l’Université de Lille pour la préparation du Certificat Informatique et Internet (C2i), [En Ligne], consulté le 21/10/2021, https://www.univ-lille3.fr/c2i/outils/ 
-	Aide aux études de la cartothèque de l’Université Paris 8 Saint-Denis, [En Ligne], consulté le 21/10/2021
+## S’entrainer et se familiariser à la rédaction sur les outils bureautiques 
+- Ressources en ligne de l’Université de Lille pour la préparation du Certificat Informatique et Internet (C2i), [En Ligne], consulté le 21/10/2021, https://www.univ-lille3.fr/c2i/outils/ 
+- Aide aux études de la cartothèque de l’Université Paris 8 Saint-Denis, [En Ligne], consulté le 21/10/2021
 
 
 ```markdown
