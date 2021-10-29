@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenue sur le guide méthodologique des étudiants de l'Université Sorbonne Paris nord
 
 You can use the [editor on GitHub](https://github.com/jdesbo92/guide-methodologique-licence-de-g-ographie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
