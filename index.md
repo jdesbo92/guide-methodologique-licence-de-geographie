@@ -1,20 +1,16 @@
-## Introduction 
+## INTRODUCTION 
 
 <span style="text-align: justify; display:block;">
 Ce guide méthodologique est destiné aux étudiants de la licence géographie et aménagement et de la double licence Histoire et Géographie de l’université Sorbonne Paris Nord. 
-Il reprend un grand nombre [de fiches](https://moodlesupd.script.univ-paris-diderot.fr/mod/resource/view.php?id=19519)
-( issues du travail des enseignants chercheurs l’Université de Paris anciennement Université Paris Diderot) et de l’Université Sorbonne Paris Nord.
-Il doit vous permettre de prolonger les enseignements méthodologiques de licence du département de géographie. 
+Il reprend un grand nombre [de fiches]https://moodlesupd.script.univ-paris-diderot.fr/mod/resource/view.php?id=19519
+issues du travail des enseignants chercheurs l’Université de Paris anciennement Université Paris Diderot et de l’Université Sorbonne Paris Nord.
+Il doit vous permettre de prolonger les enseignements méthodologiques suivis durant la licence du département de géographie. 
 Le guide est constitué de 8 fiches méthodologiques qui reprennent les principales méthodes de travail et les savoir-faire indispensables à une formation de géographe en 1er cycle universitaire. 
 Chaque fiche est constituée d’exemples qui permettront aux étudiants de s’entraîner et de voir quelles sont les principales erreurs à éviter. 
 Ce guide doit vous accompagner dans l’acquisition du socle de connaissances et des savoir-faire essentiels en géographie. 
 Sa consultation est conseillée de la 1ère à la 3e année de licence, mais ne doit pas remplacer votre recherche personnelle et votre consultation de manuels et de dictionnaires universitaires. </span>
 
-You can use the [editor on GitHub](https://github.com/jdesbo92/guide-methodologique-licence-de-g-ographie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### OUVRAGES POUR VOUS AIDER DANS VOS ETUDES SUPERIEURES EN GEOGRAPHIE
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -45,3 +41,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+You can use the [editor on GitHub](https://github.com/jdesbo92/guide-methodologique-licence-de-g-ographie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
