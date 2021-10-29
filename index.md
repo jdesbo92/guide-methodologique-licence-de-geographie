@@ -1,6 +1,6 @@
 ## Bienvenue sur le guide méthodologique des étudiants de l'Université Sorbonne Paris nord
 
-<span style="text-align: justify"> 
+<span style="text-align:justify"> 
   
 Ce guide méthodologique est destiné aux étudiants de la licence géographie et aménagement et de la double licence Histoire et Géographie de l’université Sorbonne Paris Nord. 
 Il reprend un grand nombre [de fiches](https://moodlesupd.script.univ-paris-diderot.fr/mod/resource/view.php?id=19519)
