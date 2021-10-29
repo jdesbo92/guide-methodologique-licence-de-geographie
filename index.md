@@ -5,9 +5,9 @@ Ce guide méthodologique est destiné aux étudiants de la licence géographie e
 Il reprend un grand nombre [de fiches](https://moodlesupd.script.univ-paris-diderot.fr/mod/resource/view.php?id=19519)
 issues du travail des enseignants chercheurs l’Université de Paris anciennement Université Paris Diderot et de l’Université Sorbonne Paris Nord.
 Il doit vous permettre de prolonger les enseignements méthodologiques suivis durant la licence du département de géographie. 
-Le guide est constitué de 8 fiches méthodologiques qui reprennent les principales méthodes de travail et les savoir-faire indispensables à une formation de géographe en 1er cycle universitaire. 
+Le guide est constitué de 8 fiches méthodologiques qui reprennent les principales méthodes de travail et les savoir-faire indispensables à une formation de géographe en 1er cycle universitaire.<space><space> 
 Chaque fiche est constituée d’exemples qui permettront aux étudiants de s’entraîner et de voir quelles sont les principales erreurs à éviter. 
-Ce guide doit vous accompagner dans l’acquisition du socle de connaissances et des savoir-faire essentiels en géographie. 
+Ce guide doit vous accompagner dans l’acquisition du socle de connaissances et des savoir-faire essentiels en géographie.<space><space>
 Sa consultation est conseillée de la 1ère à la 3e année de licence, mais ne doit pas remplacer votre recherche personnelle et votre consultation de manuels et de dictionnaires universitaires. </span>
 
 ## QUELQUES OUVRAGES POUR VOUS AIDER DANS VOS ETUDES SUPERIEURES EN GEOGRAPHIE ET A L'UNIVERSITE
