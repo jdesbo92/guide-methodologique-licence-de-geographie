@@ -1,7 +1,6 @@
 title: Slate theme
 description: Slate is a theme for GitHub Pages.
-show_downloads: true
+show_downloads: false 
 google_analytics: true
-avatar: /assets/img/logo_uspn.png
-logo: guide-methodologique-licence-de-geographie/assets/img/logo_uspn.png 
+logo: /assets/img/logo_uspn.png 
 theme: jekyll-theme-slate
