@@ -1,6 +1,6 @@
 ## Bienvenue sur le guide méthodologique des étudiants de l'Université Sorbonne Paris nord
 
-<div style="text-align: justify"> 
+<span style="text-align: justify"> 
   
 Ce guide méthodologique est destiné aux étudiants de la licence géographie et aménagement et de la double licence Histoire et Géographie de l’université Sorbonne Paris Nord. 
 Il reprend un grand nombre [de fiches](https://moodlesupd.script.univ-paris-diderot.fr/mod/resource/view.php?id=19519)
@@ -11,7 +11,7 @@ Chaque fiche est constituée d’exemples qui permettront aux étudiants de s’
 Ce guide doit vous accompagner dans l’acquisition du socle de connaissances et des savoir-faire essentiels en géographie. 
 Sa consultation est conseillée de la 1ère à la 3e année de licence, mais ne doit pas remplacer votre recherche personnelle et votre consultation de manuels et de dictionnaires universitaires.
   
-</div>
+</span>
 
 
 You can use the [editor on GitHub](https://github.com/jdesbo92/guide-methodologique-licence-de-g-ographie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
