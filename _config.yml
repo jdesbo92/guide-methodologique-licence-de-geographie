@@ -3,5 +3,5 @@ description: Ce guide doit vous accompagner dans l’acquisition des connaissanc
 show_downloads: false
 google_analytics: true
 logo : "https://www.univ-paris13.fr/wp-content/uploads/logoUSPN-site-1-1.png"
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 
